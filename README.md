@@ -1,27 +1,60 @@
-<h2> Hey there! I'm Yuri.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h1 align="center">Hi , I'm Yuri Miyazawa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🤔 &nbsp; Exploring new technologies and learning ReactJS.
-- 🍭 &nbsp; Games and Animes.
+<hr/>
+<h4 align="center">I am Junior developer studying ReactJS.I like to Code, Innovate and Experiment. I love to help, if I don't have the knowledge to help, I will learn together and try to help the best I can.</h4>
+<br>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 🛠️ My Skills
 
-- 🌐 &nbsp; <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+### 👉 Programming languages
 
-- 🛢 &nbsp; <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-- ⚙️ &nbsp; <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<p align="left"> 
+    &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+</p>
 
-- 🔧 &nbsp;
- ![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
+### 👉 Frontend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a>   
+</p>
 
-<br/>
+### 👉 Databases & Cloud Hosting
+<p align="left"> 
+  &emsp;
+    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+  &emsp;
+    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+  &emsp;
+    <a href="https://mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+ </p>
+ 
+ ### 👉 Software & Tools
+ 
+<p>
+ 
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a> 
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> 
+</p>
 
-<br/>
+## 🙋‍♀️ Let's Connect
+<p align="center"> 
+	<a href="mailto:gustav0.yuri@hotmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/yurizawa"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/gustavo-miyazawa-957415251"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/gustav0.yuri"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>		
+</p>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<hr/>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/gustavo-miyazawa-957415251/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:gustav0.yuri@hotmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://wa.me/5518996207066"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
