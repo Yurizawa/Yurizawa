@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Yuri Miyazawa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <hr/>
-<h4 align="center">I am Junior developer studying ReactJS. I like to Code, Innovate and Experiment. I love to help, if I don't have the knowledge to help, I will learn together and try to help the best I can.</h4>
+<h4 align="center">I am Junior developer studying ReactJS. I like to Code, Innovate and Experiment. I love to help, if I don't have the knowledge, i will do my best to learn new things and do the best I can to help.</h4>
 <br>
 
 ## 🛠️ My Skills
